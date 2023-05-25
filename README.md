@@ -1,6 +1,11 @@
 ### Hola!
-<ol>
-<li>Pájaro</li>
-<li>Zorro</li>
-<li>Pez</li>
-</ol>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>CSS Interno</title>
+	<link rel="stylesheet" type="text/css" href="estilos.css">
+</head>
+<body>
+
+</body>
+</html>
