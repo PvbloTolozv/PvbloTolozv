@@ -3,5 +3,7 @@ Mi nombre es Pablo Toloza, soy egresado de Data Science en la academia Desafíos
 
 ### Skills
 
-<li>Python</li>
-<li>Excel certificado intermedio, proximo avanzado</li>
+<li>Python avanzado para modelos de Machine Learning y librerias relacionadas al procesamiento de datos como Pandas, Numpy, Matplotlib, Seaborn, Sklearn, etc.</li>
+<li>Excel certificado intermedio, próximo avanzado.</li>
+<li>PowerBi, SQL, HTML y CSS básico</li>
+<li>
