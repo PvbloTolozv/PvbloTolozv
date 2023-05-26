@@ -10,5 +10,4 @@ Mi nombre es Pablo Toloza, soy egresado de Data Science en la academia Desafíos
 
 ### Contacto
 
-<li> Corrreo: Ptolozacastillo98@gmail.com </li>
-  
+Corrreo: Ptolozacastillo98@gmail.com
